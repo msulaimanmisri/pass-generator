@@ -22,7 +22,7 @@
 
     <div class="row">
         <div class="col d-flex justify-content-center">
-            <button class="btn btn-primary" onclick="window.location.href = 'http://ninja.test/ninpass/'">Generate Password</button>
+            <button class="btn btn-primary" onclick="window.location.href = '/'">Generate Password</button>
         </div>
     </div>
 </div>
