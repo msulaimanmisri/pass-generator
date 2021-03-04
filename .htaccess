@@ -1,4 +1,4 @@
 RewriteEngine On
 RewriteCond %{SCRIPT_FILENAME} !-d
 RewriteCond %{SCRIPT_FILENAME} !-f
-RewriteRule ^(.well-known[/]acme-challenge[/]yoururl)$  index2.php    [NC,L]    # Handle product requests
+RewriteRule ^(.well-known[/]acme-challenge[/]pass.sulaimanmisri.com)$  index2.php    [NC,L]
